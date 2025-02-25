@@ -3,7 +3,7 @@
 <p>This repository collects my hands-on notes, queries, and problem solutions from my SQL learning journey. It serves as a structured guide to understanding SQL concepts, database management, and query optimization techniques. There is still so much to explore! 🔥</p>
 
 <h2>📂 Repository Structure</h2>
-<pre>
+
 📁 basics/                    # SQL fundamentals (DDL, DML, DCL, TCL)
 📁 queries/                   # Hands-on SQL queries and exercises
 📁 joins/                     # INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN
@@ -16,8 +16,6 @@
 📁 datasets/                  # Sample datasets for practice
 📁 notes/                     # Reference notes and cheat sheets
 📄 README.md                 # 📜 Documentation (this file)
-
-<h2>🚀 Getting Started</h2>
 
 <h3>🔧 Prerequisites</h3>
 <ul>
